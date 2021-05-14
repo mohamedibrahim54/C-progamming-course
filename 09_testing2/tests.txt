@@ -1,0 +1,26 @@
+aaaaa bbbbb
+aaaab bbbbb
+aaaaa bbbbc
+baaaa bbbbc
+baaaa cbbbb
+aaaab bbbcc
+a b
+aaaaa
+  b
+aaaab bbbbd ddddd
+aa1aa bbb11
+1aaaa 1bbbb
+aaaa0 0bbbb
+aaaa0 bbbb0
+a,c,d bbcdd
+aaacc bbddd
+aaacc b,c,d
+aaccd bcccd
+aaa cc cc
+aaaaa aaaaa
+aaaaaa bbbbb
+aaaaa bbbbbb
+&^%$# *&^%$
+aaaa bbbbb
+aaaaa bbbb
+
